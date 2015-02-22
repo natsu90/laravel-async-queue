@@ -2,7 +2,7 @@
 
 namespace Barryvdh\Queue\Models;
 
-use Illuminate\Database\Eloquent\Model;
+use Jenssegers\Mongodb\Model;
 
 /**
  * Queue jobs.
